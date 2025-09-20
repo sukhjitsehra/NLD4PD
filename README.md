@@ -1,2 +1,3 @@
 # NLD4PD
-Non-Linear Dynamics in 
+
+Non-Linear Dynamics in Parkinson Gait
